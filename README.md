@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vincengomes
-- 👀 I’m interested in Frontend Web Development especially SSG and JAMstack
+- 👀 I’m interested in Python and Frontend Web Development especially Django, SSG and JAMstack
 - 🌱 I’m currently learning Hugo and GatsbyJS
 
 
