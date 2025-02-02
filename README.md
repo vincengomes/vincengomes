@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @vincengomes
-- 👀 I’m interested in Python and Frontend Web Development especially Django, SSG and JAMstack
-- 🌱 I’m currently learning Hugo and GatsbyJS
+- 🖥 I'm a hobbyist programmer which means i ask computers to do things and sometimes they actually listen!
+- 🏗 All my projects are for my own amusement, so they're a wild mix that doesn't stick to any one niche.
+- 👀 My main interests are Python and web development.
+- 🌱 I've dabbled with Django and jamstack, and now I’m currently learning the quirks of ReactJS
 
 
 <!---
